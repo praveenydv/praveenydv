@@ -7,21 +7,21 @@ Welcome to my GitHub! I'm a software engineer from IIT Kanpur who loves learning
 ## 🚀 Featured Project: TejX Programming Language
 I am the creator of the **[TejX Programming Language](https://github.com/tejx-lang)**, an entirely new language built from the ground up. 
 * **Core Compiler:** Engineered in **Rust** for performance and memory safety (`tejx-lang/tejx`).
-* **Ecosystem:** Documentation and web presence built using **TypeScript** (`tejx-lang/tejx-lang.github.io`).
 * **Explore TejX:** [tejx-lang.github.io](https://tejx-lang.github.io/) | [TejX GitHub Organization](https://github.com/tejx-lang)
 
 ---
 
-## 💻 Highlighted Open Source Projects
+## 💻 Highlighted Projects
 
 * **[TejX Programming Language](https://github.com/tejx-lang):** Engineered a custom programming language and compiler from scratch using Rust.
-* **[Non Invasive Glucometer](https://github.com/praveenydv/Inter_IIT_techmeet2018):** Developed a non-invasive glucometer for the Inter IIT Tech Meet. 
+* **[Homedwel](https://homedwel.com):** Architected and developed a full-stack property management platform and Android app from the ground up to automate rent billing, lease tracking, and tenant communication.
+* **[Non Invasive Glucometer](https://github.com/praveenydv/non-invasive-glucometer):** Developed a non-invasive glucometer to relieve the pain of skin-piercing tests. 
 * **[Sign Language Recognition](https://github.com/praveenydv/sign_language):** Machine learning exploration for translating sign language.
 
 ---
 
 ## 🤝 Let's Connect!
-I'm always open to discussing systems programming, compilers, hardware integrations, or exciting software engineering opportunities.
+I'm always open to discussing exciting software engineering opportunities.
 
 * 💼 **LinkedIn:** [linkedin.com/in/praveenydvin](https://www.linkedin.com/in/praveenydvin/)
 * 🌐 **TejX Language:** [tejx-lang.github.io](https://tejx-lang.github.io/)
